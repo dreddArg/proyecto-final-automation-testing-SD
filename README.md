@@ -1,4 +1,4 @@
-# Entrega Automation Testing Talento Tech - Sergio Durelli
+# Entrega Automation Testing Talento Tech - SD
 
 ## Propósito del Proyecto
 
